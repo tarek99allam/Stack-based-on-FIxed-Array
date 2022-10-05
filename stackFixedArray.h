@@ -75,3 +75,10 @@ ES_t stack_SHOW (stack_t *stack);
 uint32 stack_SIZE (stack_t *stack, ES_t *ERRORSTATE);
 
 #endif // !STACKFUXEDARRAY_H_
+
+/* ***************************************************************************
+ *  AUTHOR              DATE                    BRIEF 
+ * ***************************************************************************
+ *  TAREK ALLAM         5 OCT 2022              WRITE DECLERATION
+ */
+
